@@ -1,7 +1,31 @@
-### Hi there 👋
+<h1>Hi, I'm Chester! <br/><a href="https://github.com/joshmadakor1"> <a href="https://www.linkedin.com/in/chester-codio-73b48218b/?originalSubdomain=ca"> Cybersecurity Professional</a> 
+
+
+
+<h2>👨‍💻 Cybersecurity Projects:</h2>
+
+
+- <b>PowerShell</b>
+  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
+
+
+<h2> My Certifications:</h2>
+
+ - Qualys Certified Specialist
+ 
+ - Google Cybersecurity  (ongoing)
+ 
+
+<h2> 🤳 Connect with me:</h2>
+
+
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+[linkedin]: https://www.linkedin.com/in/chester-codio-73b48218b/?originalSubdomain=ca)
 
 <!--
-**Chesteru/Chesteru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
