@@ -1,4 +1,4 @@
-<h1>Hi, I'm Chester! <br/><a href="https://github.com/joshmadakor1"> <a href="https://www.linkedin.com/in/chester-codio-73b48218b/?originalSubdomain=ca"> Cybersecurity Professional</a> 
+<h1>Hi, I'm Chester! <br/><a href="https://github.com/joshmadakor1"> <a href="https://www.linkedin.com/in/chester-codio-"> Cybersecurity Professional</a> 
 
 
 
@@ -23,10 +23,10 @@
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
-[linkedin]: https://www.linkedin.com/in/chester-codio-73b48218b/?originalSubdomain=ca)
+[linkedin]: https://www.linkedin.com/in/chester-codio
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
